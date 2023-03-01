@@ -8,7 +8,7 @@ Requires a Roblox utility with `gethui()` or `syn.protect_gui` function. Tested 
 ## How to use?
 - Load the UI Library from GitHub repository.
 ```lua
-local library = loadstring(game:HttpGet("https://github.com/GoHamza/AppleLibrary/blob/main/main.lua?raw=true"))()
+local library = loadstring(game:HttpGet("https://github.com/ShxrkWare/apple/blob/main/AppleLibrary.lua?raw=true"))()
 ```
 - Create a window.
 ```lua
